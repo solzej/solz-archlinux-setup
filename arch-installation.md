@@ -21,7 +21,7 @@ sudo pacman -S nvidia-utils lib32-nvidia-utils
 
 - Install packages (official repository)
 ```
-pacman -S chromium base-devel git flatpak steam gamemode wine-staging fastfetch htop btop 
+pacman -S chromium base-devel git flatpak steam gamemode gamescope wine-staging gwenview gimp kwrite kate fastfetch htop btop 
 ```
 - Install Yay - AUR Helper (community repository)
 ```
